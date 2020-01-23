@@ -51,7 +51,7 @@ setup(
     install_requires=[
         'lxml(>=3.7.3)',
         'xmlsec(>=1.0.7)',
-        'Geraldo(>=0.4.16)',
+        'Genshi(>=0.7.3),
         'qrcode(>=5.3)',
         'py3o.template(>=0.9.11)',
         'sh(>=1.12.9)'
